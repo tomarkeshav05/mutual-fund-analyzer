@@ -186,7 +186,7 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align: center; padding: 20px 0; color: #A8A296; font-size: 0.9rem;'>
     Built by <strong style='color: #C9A24B;'>[Keshav Tomar ]</strong> · Data from mfapi.in · 
-    <a href="https://www.linkedin.com/in/[keshav-tomar-46294a391]" style='color: #C9A24B;'>LinkedIn</a> · 
+    <a href="https://www.linkedin.com/in/keshav-tomar-46294a391" style='color: #C9A24B;'>LinkedIn</a> · 
     <a href="https://github.com/tomarkeshav05/mutual-fund-analyzer" style='color: #C9A24B;'>GitHub</a>
 </div>
 """, unsafe_allow_html=True)
